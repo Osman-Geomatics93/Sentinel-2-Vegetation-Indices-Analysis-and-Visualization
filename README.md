@@ -47,3 +47,5 @@ A comprehensive Earth Engine application for calculating, analyzing, and visuali
 
 ![alt text](image-7.png)
 
+![alt text](image-8.png)
+
